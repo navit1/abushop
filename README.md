@@ -1,1 +1,1 @@
-# abushop.git.kz
+# abushop.github.io
